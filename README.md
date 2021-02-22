@@ -10,3 +10,7 @@ Example: https://pomofocus.io/
 # 2: Tip Calculator
 Description: Build a calulator for knowing the amount of tip knowing the bill value, number of people the bill will be splitted and more options.
 Example: https://www.calculator.net/tip-calculator.html
+
+# 3: Change-theme Feature
+Description: Build a feature that changes the theme of the page, light theme to dark and dark-theme to light
+Example: https://codepen.io/nilsynils/pen/EKmjog
