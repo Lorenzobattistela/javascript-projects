@@ -18,3 +18,6 @@ Example: https://codepen.io/nilsynils/pen/EKmjog
 # 4: CSS Gradient Color Generator
 Description: Generate a nice color gradient. Just enter two colors and our tool generates a perfect color gradient and the fitting css code.
 Example: https://mycolor.space/gradient
+
+# 5: Formulary sign up and login
+Description: Sign up page where user sign up and then a login page where  the data is verificated using localStorage.
